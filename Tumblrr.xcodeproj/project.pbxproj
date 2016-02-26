@@ -21,6 +21,7 @@
 		B5185F991C7BF11700D2508A /* AccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5185F981C7BF11700D2508A /* AccountViewController.swift */; };
 		B5185F9B1C7BF12200D2508A /* TrendingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5185F9A1C7BF12200D2508A /* TrendingViewController.swift */; };
 		B5185F9E1C7F816500D2508A /* Delay.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5185F9D1C7F816500D2508A /* Delay.swift */; };
+		B518F6791C80BDC20004E469 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B518F6781C80BDC20004E469 /* LogInViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		B5185F981C7BF11700D2508A /* AccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountViewController.swift; sourceTree = "<group>"; };
 		B5185F9A1C7BF12200D2508A /* TrendingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrendingViewController.swift; sourceTree = "<group>"; };
 		B5185F9D1C7F816500D2508A /* Delay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Delay.swift; sourceTree = "<group>"; };
+		B518F6781C80BDC20004E469 /* LogInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				B5185F961C7BF10D00D2508A /* ComposeViewController.swift */,
 				B5185F981C7BF11700D2508A /* AccountViewController.swift */,
 				B5185F9A1C7BF12200D2508A /* TrendingViewController.swift */,
+				B518F6781C80BDC20004E469 /* LogInViewController.swift */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 				B5185F971C7BF10D00D2508A /* ComposeViewController.swift in Sources */,
 				B5185F631C7BEABF00D2508A /* AppDelegate.swift in Sources */,
 				B5185F9E1C7F816500D2508A /* Delay.swift in Sources */,
+				B518F6791C80BDC20004E469 /* LogInViewController.swift in Sources */,
 				B5185F931C7BF0F500D2508A /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
